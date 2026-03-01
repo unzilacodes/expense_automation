@@ -1,5 +1,6 @@
 -----------------------Smart Invoice System:
 url: http://localhost:8501/
+In order to run , type in terminal: streamlit run app.py
 
 Smart Invoice System is a web-based application built with Streamlit that automates invoice tracking, expense categorization, and monthly insights. The system extracts data from PDF invoices, categorizes items automatically, allows users to add custom keywords, and provides an easy-to-use interactive dashboard.
 
